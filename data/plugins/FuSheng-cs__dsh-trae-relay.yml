@@ -1,7 +1,0 @@
-url: https://github.com/FuSheng-cs/dsh-trae-relay
-name: FuSheng-cs/dsh-trae-relay
-category: model
-tarball: https://github.com/FuSheng-cs/dsh-trae-relay/releases/latest/download/dsh-trae-relay.tgz
-description:
-  en: TRAE CN relay and embedded console with optional check-in, multiple accounts, rotation, model discovery, reasoning and visibility controls.
-  zh: TRAE CN 反代与内嵌控制台，支持自动签到、多账号管理、轮询、模型发现、思考档位和显示控制；自动签到与轮询默认关闭。

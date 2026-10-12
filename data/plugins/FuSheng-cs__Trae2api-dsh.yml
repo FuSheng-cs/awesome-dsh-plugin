@@ -1,0 +1,7 @@
+url: https://github.com/FuSheng-cs/Trae2api-dsh
+name: FuSheng-cs/Trae2api-dsh
+category: model
+tarball: https://github.com/FuSheng-cs/Trae2api-dsh/releases/latest/download/trae2api-dsh.tgz
+description:
+  en: Trae2api-dsh connects TRAE CN models and an embedded account console to DSH, with optional check-in, rotation, reasoning and visibility controls.
+  zh: Trae2api-dsh 将 TRAE CN 模型与账号控制台接入 dsh，支持签到、轮询、思考档位和模型显示管理；自动签到与轮询默认关闭。
