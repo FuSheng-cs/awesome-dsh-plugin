@@ -3,5 +3,5 @@ name: FuSheng-cs/dsh-trae-relay
 category: model
 tarball: https://github.com/FuSheng-cs/dsh-trae-relay/releases/latest/download/dsh-trae-relay.tgz
 description:
-  en: Managed TRAE CN relay with account controls, model discovery, reasoning levels and model visibility settings.
-  zh: TRAE CN 反代，提供账号管理、可用模型发现、思考档位和模型显示设置。
+  en: Managed TRAE CN relay with an embedded console, model discovery, reasoning levels and console model-visibility controls.
+  zh: TRAE CN 反代，保留内嵌控制台，提供模型发现、思考档位和控制台内的模型显示设置。
